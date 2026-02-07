@@ -14,7 +14,7 @@ We saw one of them in the [Minimal Application - Counter](../quickstart/3_a_simp
 ```rust
 {{#rustdoc_include {{code}}/quickstart/src/main.rs:row}}
 ```
-There, we created a [`Row`](https://docs.rs/iced/0.14/iced/widget/struct.Row.html) with three children inside. One text and two buttons. The syntax for rows is the same.
+There, we created a [`Row`](https://docs.rs/iced/0.14/iced/widget/struct.Row.html) with three children inside. One text and two buttons. The syntax for columns is the same.
 
 You can put any [`Element`](https://docs.rs/iced_core/0.10.0/iced_core/struct.Element.html) inside a [`Column`](https://docs.rs/iced/0.14/iced/widget/struct.Column.html) or [`Row`](https://docs.rs/iced/0.14/iced/widget/struct.Row.html).
 
