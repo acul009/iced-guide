@@ -2,7 +2,9 @@
 
 ## Can I make a mobile app with iced?
 
-Not really. There is a [discord thread](https://discord.com/channels/628993209984614400/1256812841944748133/1256812841944748133) for making an android app with some success in running an iced app on android. 
+Not really. Iced is not designed for mobile. But there is a [test library for mobile (IOS and Android)](https://github.com/Leinnan/iced_mobile). 
+
+There is also a [discord thread](https://discord.com/channels/628993209984614400/1256812841944748133/1256812841944748133) for making an android app with some success in running an iced app on android. 
 For IOS, there is [this repository](https://github.com/iced-rs/ios-examples), but it is marked as archived and the last commit is years old.
 
 ## Is there an easy way to create pop-ups?
