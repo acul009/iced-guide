@@ -12,7 +12,7 @@ Iced focuses on Simplicity and type-safety so that you can concenterate on your 
 This guide tries to explain the basics of the Iced GUI library (*mostly* 0.14) for the Rust programming language.
 
 Most of the discussions and community talk are centered around the [iced discord](https://discord.gg/3xZJ65GAhd). If you want to talk with people about iced, that's probably the best place.
-If you do not like discord, there is a [discourse](https://discourse.iced.rs/) as well.
+If you do not like discord, there is a [discourse](https://discourse.iced.rs/) and [zulip](https://iced.zulipchat.com) as well.
 
 ## Disclaimer
 
