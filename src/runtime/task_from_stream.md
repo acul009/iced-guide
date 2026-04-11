@@ -1,5 +1,5 @@
 # Task From Stream
-Imagine you want a `Task` that produces more than one `Message.` One solution is to use `Task::run` and pass a Stream to it.
+Imagine you want a `Task` that produces more than one `Message`. One solution is to use `Task::run` and pass a Stream to it.
 
 A `Stream` is basically an async iterator.
 
