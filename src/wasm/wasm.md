@@ -19,7 +19,7 @@ cargo build --target wasm32-unknown-unknown
 ```
 
 ### Install Trunk
-We will use [trunk](https://trunkrs.dev/) for building and serving the web page. For that, we need to install trunk via cargo:
+We will use [trunk]([https://trunkrs.dev/](https://trunk-rs.github.io/trunk/) for building and serving the web page. For that, we need to install trunk via cargo:
 ```
 cargo install --locked trunk
 ```
